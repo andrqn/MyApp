@@ -63,6 +63,7 @@ if ($_SESSION['user']) {
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="assets/js/script.js"></script>
+    <noscript><p>Пожалуйста включите JavaScript</p></noscript>
 
 </body>
 </html>
